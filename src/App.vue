@@ -12,6 +12,12 @@ export default {
     HelloWorld
   }
 }
+
+//PS C:\Users\Administrator\Desktop\workathome> git config user.name kwangheeguest
+//PS C:\Users\Administrator\Desktop\workathome> git config user.email kwangheeguest@gmail.com
+//PS C:\Users\Administrator\Desktop\workathome> git branch -M main
+//PS C:\Users\Administrator\Desktop\workathome> git remote add origin https://github.com/SonGwangHee/vue.git
+//PS C:\Users\Administrator\Desktop\workathome> git pull origin main 
 </script>
 
 <style>
